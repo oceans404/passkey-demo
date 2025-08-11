@@ -2,6 +2,10 @@
 
 Implementing Face ID and Touch ID authentication with passkeys and Next.js
 
+<img width="1600" height="900" alt="passkey" src="https://github.com/user-attachments/assets/6b36bec3-f946-4bd6-806d-655dbae68c46" />
+
+Check out the live passkey Next.js demo app [here](https://passkey-demo-zeta.vercel.app/)
+
 ## What are passkeys and why should you care?
 
 Imagine if your users never had to remember another password again. That's the promise of passkeys, a new authentication standard that replaces passwords with biometric authentication (Face ID, Touch ID, Windows Hello) or security keys.
